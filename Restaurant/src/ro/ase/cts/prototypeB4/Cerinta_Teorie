@@ -1,0 +1,15 @@
+B.4. Restaurantul dorește să implementeze un modul în cadrul aplicației, astfel încât dacă un client
+a mai fost la restaurant și revine pentru a realiza o rezervare să nu fie necesară reconstruirea unui
+cont respectivului client, deoarece construirea unui nou obiect durează foarte mult si solicita mai
+multe date.
+
+Viteza: Creezi obiecte noi instant, prin copiere, fara sa mai treci prin procese grele 
+(citit din baza de date, calcule, retea).
+
+Economie: Nu mai consumi resurse sa "reconstruiesti" ceva ce ai deja in memorie.
+
+Independenta (Deep Copy): Obtii o copie separata pe care o poti modifica fara sa strici 
+obiectul original.
+
+Simplitate: Scapi de constructori giganti cu zeci de parametri daca vrei doar o varianta 
+usor modificata a unui obiect existent.
