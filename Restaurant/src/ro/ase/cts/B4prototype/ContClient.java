@@ -1,4 +1,4 @@
-package ro.ase.cts.prototypeB4;
+package ro.ase.cts.B4prototype;
 
 import java.util.ArrayList;
 import java.util.List;

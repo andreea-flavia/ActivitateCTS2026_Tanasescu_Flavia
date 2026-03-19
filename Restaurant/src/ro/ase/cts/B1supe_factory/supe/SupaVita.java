@@ -1,4 +1,4 @@
-package ro.ase.cts.supe_factoryB1.supe;
+package ro.ase.cts.B1supe_factory.supe;
 
 public class SupaVita extends Supa {
     public SupaVita(String denumire, double pret, int calorii, boolean esteVegana) {

@@ -1,7 +1,7 @@
-package ro.ase.cts.supe_factoryB1.factory;
+package ro.ase.cts.B1supe_factory.factory;
 
-import ro.ase.cts.supe_factoryB1.supe.Supa;
-import ro.ase.cts.supe_factoryB1.supe.SupaVita;
+import ro.ase.cts.B1supe_factory.supe.Supa;
+import ro.ase.cts.B1supe_factory.supe.SupaVita;
 
 public class SupaFactory {
 

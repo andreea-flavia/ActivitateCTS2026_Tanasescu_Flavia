@@ -1,8 +1,8 @@
-package ro.ase.cts.supe_factoryB1.program;
+package ro.ase.cts.B1supe_factory.program;
 
-import ro.ase.cts.supe_factoryB1.factory.SupaFactory;
-import ro.ase.cts.supe_factoryB1.factory.SupaType;
-import ro.ase.cts.supe_factoryB1.supe.Supa;
+import ro.ase.cts.B1supe_factory.factory.SupaFactory;
+import ro.ase.cts.B1supe_factory.factory.SupaType;
+import ro.ase.cts.B1supe_factory.supe.Supa;
 
 public class Main {
     public static void afisareSupa(Supa supa){

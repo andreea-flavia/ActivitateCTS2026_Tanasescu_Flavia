@@ -1,4 +1,4 @@
-package ro.ase.cts.prototypeB4;
+package ro.ase.cts.B4prototype;
 
 public class Program {
     public static void main(String[] args) {
