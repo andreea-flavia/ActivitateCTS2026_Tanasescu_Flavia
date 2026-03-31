@@ -1,4 +1,4 @@
-package ro.ase.cts.prototypeA4;
+package ro.ase.cts.A4prototype;
 
 public interface IReteta {
     IReteta copiaza();

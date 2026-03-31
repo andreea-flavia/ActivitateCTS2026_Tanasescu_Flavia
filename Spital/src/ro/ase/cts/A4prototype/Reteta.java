@@ -1,6 +1,5 @@
-package ro.ase.cts.prototypeA4;
+package ro.ase.cts.A4prototype;
 
-import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.List;
 
