@@ -12,6 +12,6 @@ public class MedicamentAdapter extends Medicament {
 
     @Override
     public void cumparaMedicament() {
-        super.cumparaMedicament();
+
     }
 }
