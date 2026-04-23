@@ -26,5 +26,8 @@ public class Main {
         afisareMijlocTransport(autobuz);
         afisareMijlocTransport(tramvai);
         afisareMijlocTransport(troleibuz);
+
+        MijlocTransport a2 = mijlocTransportFactorySingle.getMijlocTransport("Mercedes", 111, MijlocTransportType.AUTOBUZ);
+        afisareMijlocTransport(a2);
     }
 }
